@@ -13,6 +13,13 @@
 
 }
 
-.woman {
-    background-image: url('/images/woman.png') !important;
-}
+/* .woman {
+    background-image: url('../images/woman.png') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: max-content;
+
+} */
